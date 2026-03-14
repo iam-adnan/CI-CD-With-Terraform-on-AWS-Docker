@@ -108,5 +108,3 @@ sudo systemctl start jenkins
 **The Fix:** Update the `main.tf` file to use `t3.micro` instead of `t2.micro` in the `aws_instance` resource block.
 
 ```
-
-```
